@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imglogin">
+        <file>background.jpg</file>
+        <file>background2.jpg</file>
+    </qresource>
+</RCC>
